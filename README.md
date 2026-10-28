@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👯 I’m looking to collaborate on [ProjectX](https://github.com/kopanevr/ProjectX.git)!
+- 🔭 I’m currently working on [ProjectX](https://github.com/kopanevr/ProjectX.git).
+- 👯 I’m looking to collaborate on [ProjectX](https://github.com/kopanevr/ProjectX.git).
 - 📫 How to reach me: telegram @rkopanev

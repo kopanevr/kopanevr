@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: telegram @rkopanev, e-mail: kopanevrsln@gmail.com.
 - 
 - 🔭 Сейчас я работаю над [ProjectX](https://github.com/kopanevr/ProjectX.git).
-- 👯 Ищу единомышленников для совместной работы над [ProjectX](https://github.com/kopanevr/ProjectX.git). А именно: Backend-разрабочик, ML (NLP) специалист.
+- 👯 Ищу единомышленников для совместной работы над [ProjectX](https://github.com/kopanevr/ProjectX.git). А именно: Backend-разработчик, ML (NLP) специалист.
 - 📫 Как со мной связаться: telegram @rkopanev, e-mail: kopanevrsln@gmail.com.

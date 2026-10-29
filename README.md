@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [ProjectX](https://github.com/kopanevr/ProjectX.git).
 - 👯 I’m looking to collaborate on [ProjectX](https://github.com/kopanevr/ProjectX.git).
 - 📫 How to reach me: telegram @rkopanev, e-mail: kopanevrsln@gmail.com.
-- 
+
 - 🔭 Сейчас я работаю над [ProjectX](https://github.com/kopanevr/ProjectX.git).
 - 👯 Ищу единомышленников для совместной работы над [ProjectX](https://github.com/kopanevr/ProjectX.git). А именно: **Бэкенд-разработчик**, **ML (NLP) специалист**.
 - 📫 Как со мной связаться: telegram @rkopanev, e-mail: kopanevrsln@gmail.com.

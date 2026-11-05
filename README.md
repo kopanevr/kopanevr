@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [AI_RETAIL_PLATFORM](https://github.com/kopanevr/ProjectX.git).
-- 👯 I’m looking to collaborate on [AI_RETAIL_PLATFORM](https://github.com/kopanevr/ProjectX.git). Specifically: **Backend Developer**, **ML (NLP) Specialist**.
+- 🔭 I’m currently working on [AI_RETAIL_PLATFORM](https://github.com/kopanevr/AI_RETAIL_PLATFORM.git).
+- 👯 I’m looking to collaborate on [AI_RETAIL_PLATFORM](https://github.com/kopanevr/AI_RETAIL_PLATFORM.git). Specifically: **Backend Developer**, **ML (NLP) Specialist**.
 - 📫 How to reach me: telegram @rkopanev, e-mail: kopanevrsln@gmail.com.
 
-- 🔭 Сейчас я работаю над [AI_RETAIL_PLATFORM](https://github.com/kopanevr/ProjectX.git).
-- 👯 Ищу единомышленников для совместной работы над [AI_RETAIL_PLATFORM](https://github.com/kopanevr/ProjectX.git). А именно: **Бэкенд-разработчик**, **ML (NLP) специалист**.
+- 🔭 Сейчас я работаю над [AI_RETAIL_PLATFORM](https://github.com/kopanevr/AI_RETAIL_PLATFORM.git).
+- 👯 Ищу единомышленников для совместной работы над [AI_RETAIL_PLATFORM](https://github.com/kopanevr/AI_RETAIL_PLATFORM.git). А именно: **Бэкенд-разработчик**, **ML (NLP) специалист**.
 - 📫 Как со мной связаться: telegram @rkopanev, e-mail: kopanevrsln@gmail.com.
